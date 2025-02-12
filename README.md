@@ -42,7 +42,6 @@ This mod requires [TSLRCM](https://deadlystream.com/files/file/578-tsl-restored-
 | TSLPatcher     | stoffe & Fair Strides           |
 | ERFEdit        | stoffe & Fair Strides           |
 | K-GFF          | tk102                           |
-| NWNSSCOMP      | Torlack, stoffe, & tk102        |
 | xoreos tools   | xoreos team https://xoreos.org/ |
 
 
