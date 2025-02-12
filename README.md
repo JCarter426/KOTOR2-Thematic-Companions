@@ -10,7 +10,7 @@
 This mod adjusts the statistics and starting equipment of the companions in _Star Wars: Knights of the Old Republic II - The Sith Lords_, addressing some issues with game balance and consistency in theme. See the attached document for a full list of changes and the rationale for each change. 
 
 
-#Installation
+# Installation
 
 You must start a new game to experience the full effects of this mod.
 
