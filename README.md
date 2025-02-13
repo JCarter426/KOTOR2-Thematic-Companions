@@ -15,7 +15,7 @@ This mod adjusts the statistics and starting equipment of the companions in _Sta
 You must start a new game to experience the full effects of this mod.
 
 1. Extract files from the downloaded archive.
-2. Run Install.exe.
+2. Run INSTALL.exe.
 3. Select which option you want to install.
 4. Click "Install Mod" and select your game directory (default name SWKotOR2).
 
