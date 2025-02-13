@@ -4,6 +4,7 @@ _*/
 # TSLPatcher
 /installlog.*
 /backup/
+/*.exe
 
 # NWScript
 /source/*.bat
