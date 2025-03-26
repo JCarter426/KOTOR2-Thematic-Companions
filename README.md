@@ -3,12 +3,11 @@
 |||
 | -------- | -----------------------------------------------------------|
 | Title:   | Thematic KOTOR 2 Companions                                |
-| Version: | 1.0.1                                                      |
+| Version: | 1.0.2                                                      |
 | Game:    | Star Wars: Knights of the Old Republic II - The Sith Lords |
 | Author:  | Sniggles & JCarter426                                      |
 
-This mod adjusts the statistics and starting equipment of the companions in _Star Wars: Knights of the Old Republic II - The Sith Lords_, addressing some issues with game balance and consistency in theme. See the attached document for a full list of changes and the rationale for each change. 
-
+This mod adjusts the statistics and starting equipment of the companions in _Star Wars: Knights of the Old Republic II - The Sith Lords_, addressing some issues with game balance and consistency in theme. See the attached document or view online](https://github.com/JCarter426/KOTOR2-Thematic-Companions/blob/main/details.md) for a full list of changes and the rationale for each change. 
 
 # Installation
 
@@ -25,6 +24,7 @@ You must start a new game to experience the full effects of this mod.
 During installation, TSLPatcher generates a backup folder and a log recording which files were affected.
 
 1. Restore or delete all .utc files affected by this mod. Copy each .utc file from the backup folder to replace the one in your game's Override folder if a backup was created, otherwise delete the .utc file from your game's Override folder.
+2. Restore or delete all all module files affected by this mod. For each module, copy the corresponding .mod file from the backup folder to replace the one in your game's Modules folder if a backup was created, otherwise delete the .mod file from your game's Modules folder.
 
 
 # Compatibility

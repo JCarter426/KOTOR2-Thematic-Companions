@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.2] - 2025-03-25
+
+### Added
+
+- Reduce lock DC of container in the prologue which T3 could not open on Normal difficulty with the Security skill decrease.
+
+### Changed
+
+- Grant missing feats to Disciple.
+- Remove extra feat from Mandalore.
+- Restore Jedi Defense feat for Sith Assassin Visas so she can equip Jedi robes.
+
 ## [1.0.1] - 2025-02-14
 
 ### Changed
