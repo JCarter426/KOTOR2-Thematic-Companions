@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3] - 2025-09-25
+
+### Changed
+
+- Correct issue with Sith Assassin Visas skill changes assigned to T3-M4 instead of Visas.
+- Correct value of Force Points for Sith Assassin Visas.
+
 ## [1.0.2] - 2025-03-25
 
 ### Added
